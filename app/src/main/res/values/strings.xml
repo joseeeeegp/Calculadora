@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="add">ADD</string>
+    <string name="div">DIV</string>
+    <string name="sub">SUB</string>
+    <string name="mul">MUL</string>
+    <string name="escriba_el_operando_2">ESCRIBA EL OPERANDO 2</string>
+    <string name="aqui_se_ver_el_resultado">AQUI SE VERÁ EL RESULTADO</string>
+    <string name="radiopar">RadioPar</string>
+    <string name="radioimpar">RadioImpar</string>
+</resources>
